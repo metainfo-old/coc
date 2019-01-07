@@ -1,2 +1,2 @@
-- [Кодекс поведения участника](CODE_OF_CONDUCT.ru)
-- [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.en)
+- [Русская версия](CODE_OF_CONDUCT.ru)
+- [English version](CODE_OF_CONDUCT.en)
