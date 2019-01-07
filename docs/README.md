@@ -1,2 +1,2 @@
-- [Русская версия](CODE_OF_CONDUCT.ru)
-- [English version](CODE_OF_CONDUCT.en)
+- [Русская версия](ru)
+- [English version](en)
