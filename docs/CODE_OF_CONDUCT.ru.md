@@ -38,6 +38,6 @@
 
 ## Атрибуция
 
-Данный кодекс поведения основан на [Contributor Covenant][сайт], версия 1.4.0 доступна на https://www.contributor-covenant.org/ru/version/1/4/code-of-conduct.html
+Данный кодекс поведения основан на [Contributor Covenant](https://www.contributor-covenant.org/ru/version/1/4/code-of-conduct.html), версия 1.4.
 
 [сайт]: https://www.contributor-covenant.org
