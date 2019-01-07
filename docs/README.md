@@ -38,7 +38,7 @@
 
 ## Атрибуция
 
-Данный кодекс поведения основан на [Contributor Covenant][сайт], версия 1.4.0 доступна на https://www.contributor-covenant.org/ru/version/1/4/code-of-conduct.html
+Данный кодекс поведения основан на [Contributor Covenant](https://www.contributor-covenant.org/ru/version/1/4/code-of-conduct.html), версия 1.4.
 
 [сайт]: https://www.contributor-covenant.org
 
@@ -113,7 +113,6 @@ members of the project's leadership.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html), version 1.4.
 
 [homepage]: https://www.contributor-covenant.org
