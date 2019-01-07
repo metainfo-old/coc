@@ -1,5 +1,3 @@
-test 123
-
 ## Contributor Covenant Code of Conduct
 
 ### Our Pledge
